@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1029130284699",
+    "project_id": "iosor-128",
+    "storage_bucket": "iosor-128.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029130284699:ios:f2b2014aba170e3402a03e",
+        "android_client_info": {
+          "package_name": "com.dorohandev.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9xZhijibwgF1ixEfQT8H3Hgu5idL56V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
