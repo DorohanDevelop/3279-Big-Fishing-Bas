@@ -41,8 +41,8 @@ namespace UI.Popups
                 _musicPlayer.SetVolume(value);
             });
             
-            _ppButton.onClick.AddListener(() => _uiPrefabFactory.CreatePopup<PrivacyPolicyPopup>());
-            _touButton.onClick.AddListener(() => _uiPrefabFactory.CreatePopup<TermsOfUsePopup>());
+            //_ppButton.onClick.AddListener(() => _uiPrefabFactory.CreatePopup<PrivacyPolicyPopup>());
+            //_touButton.onClick.AddListener(() => _uiPrefabFactory.CreatePopup<TermsOfUsePopup>());
             
             _closeButton.onClick.AddListener(DestroyPopup);
         }
