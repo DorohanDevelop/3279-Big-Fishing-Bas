@@ -22337,7 +22337,7 @@ PrefabInstance:
     - target: {fileID: 5934310109336345992, guid: 66cd3e6946d22d4478ae073dde72e003, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 1931984735320734892e46e69b61e125, type: 3}
+      objectReference: {fileID: 21300000, guid: feb3dcee0ef13ef45a04dfce2ed7e71e, type: 3}
     - target: {fileID: 6578630765971127254, guid: 66cd3e6946d22d4478ae073dde72e003, type: 3}
       propertyPath: m_Name
       value: MainScreen

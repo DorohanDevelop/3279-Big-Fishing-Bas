@@ -459,7 +459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0991287c69c42428f39a7467bb8cc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://doc-hosting.flycricket.io/big-fishing-bas-terms-of-use/46674460-bb34-4f6f-81df-1e692e928bb8/terms
+  url: https://doc-hosting.flycricket.io/master-fishing-book-terms-of-use/46674460-bb34-4f6f-81df-1e692e928bb8/terms
 --- !u!1 &1399422203096350282
 GameObject:
   m_ObjectHideFlags: 0
@@ -2381,7 +2381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0991287c69c42428f39a7467bb8cc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://doc-hosting.flycricket.io/big-fishing-bas-privacy-policy/562d2d73-ab7e-4994-be71-8d6c4ea7538a/privacy
+  url: https://doc-hosting.flycricket.io/master-fishing-book-privacy-policy/562d2d73-ab7e-4994-be71-8d6c4ea7538a/privacy
 --- !u!1 &8160228447315265603
 GameObject:
   m_ObjectHideFlags: 0
