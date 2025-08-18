@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Settings
   m_EditorClassIdentifier: 
   AttributionUrl: https://bigfishingbas.website/fishcatches.json/
-  isDebug: 0
+  isDebug: 1
   apiVersion: 14
   codeVersion: LDI_APPS
